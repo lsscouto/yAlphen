@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @yAlphen
 - 👀 I’m interested in: Web Development
-- 🌱 I’m currently learning: Full-Stack Ruby (The Odin Project)
+- 🌱 I’m currently learning: System Analysis and Development (Uninter)
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me: Couto#1768
 
