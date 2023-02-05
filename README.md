@@ -1,5 +1,4 @@
 - 👋 Hi, I’m @lsscouto
-- 👀 I’m interested in: Data Sciency and Web Development
 - 🌱 I’m currently learning: System Analysis and Development
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me: Kouto#6084
